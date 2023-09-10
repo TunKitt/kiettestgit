@@ -1,3 +1,9 @@
+#Terms
+Repository (repo)
+branch
+conflict
+
+#Commands
 git init 
 git status
 git add .
