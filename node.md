@@ -2,6 +2,8 @@
 Repository (repo)
 branch
 conflict
+local
+remote
 
 #Commands
 git init 
